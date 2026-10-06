@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # رابط خريطة الموقع الرسمية
-Sitemap: https://emirates-connect.com///sitemap.xml
+Sitemap: https://emiratesresolve.com/sitemap.xml
