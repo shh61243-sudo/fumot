@@ -147,7 +147,7 @@ export function HeroSection({ onPrimaryClick }: HeroProps) {
           className="relative w-full flex-1 min-h-[160px] max-h-[360px] lg:max-h-[400px] rounded-[1.25rem] sm:rounded-[1.5rem] md:rounded-[2rem] overflow-hidden shadow-lg border border-neutral-100"
         >
           <img
-            src="/hhj.jpg"
+            src="/hh.png"
             alt="منصة حماية المستهلك"
             className="w-full h-full object-cover object-center"
           />
